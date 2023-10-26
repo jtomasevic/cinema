@@ -26,8 +26,8 @@ For internal storages we will use classic relation database like postgresql, and
 
 ## Video Streaming
 For the purpose of trailers, we have few options. 
-- In house + cloud for deployment
-  I found this expensive
+- In house + cloud for deployment (https://aws.amazon.com/solutions/media-entertainment/streaming-media/)
+  I found this expensive as we need to have one own aplication/service infrastructure and aws specific integration which are also expencive. 
 - Using videos from IMDB  Could be a solid solution at least in the beginning to boost development. Not sure if this should be final one.
 - Hosting videos on professional platforms like Vimeo (no commercials like on YouTube, etc...)  I would prefer this one.
 
