@@ -24,5 +24,11 @@ Using a third party as SAAS, in this case could reduce costs, as we would need c
 ## Storages
 For internal storages we will use classic relation database like postgresql, and for the cases when we need speed, and scalability we will use DynamoDB (In user application services)
 
+## Video Streaming
+For the purpose of trailers, we have few options. 
+- In house + cloud for deployment
+  I found this expensive
+- Using videos from IMDB  Could be a solid solution at least in the beginning to boost development. Not sure if this should be final one.
+- Hosting videos on professional platforms like Vimeo (no commercials like on YouTube, etc...)  I would prefer this one.
 
 ... to be continued
