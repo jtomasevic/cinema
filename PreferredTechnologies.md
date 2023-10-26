@@ -5,7 +5,9 @@ ReactJS vs Angular
 
 I would personally give advantage to React over Angular, especially because we might need very optimized rendering for hall presentation with seats.
 
-If we go with React there is technology: https://reactnative.dev/ which is used to build Instagram. This should be good enough for us too. 
+#### Mobile application 
+If we go with React there is technology: https://reactnative.dev/ which is used to build Instagram. This should be good enough for us too.
+I found expencive to support native applications (for iOS and Android) so if we Reactive Native is not suitable I would go with some cross-platform like .NET core, and it's support for iOS and Android.
 
 ### Backend
 Although Microservice architecture encouraging using different language for different services, we don't have reason for that. 
